@@ -1,12 +1,7 @@
 micro:
   component:
     elasticsearch:
-      host: scrm-bus-es
-      port: 9200
-      port1: 9201
-      port2: 9202
-      cluster_name: scrm-es
-      user_name:
+      username:
       password:
       cluster:
-        nodes: scrm-es.in-s01-bom04.elasticsearch.oppo.local:19527
+        nodes: micro-elasticsearch:9200,micro-elasticsearch:9201,micro-elasticsearch:9202

@@ -4,4 +4,4 @@ micro:
       username:
       password:
       cluster:
-        nodes: micro-elasticsearch:9200,micro-elasticsearch:9201,micro-elasticsearch:9202,
+        nodes: micro-elasticsearch:9200,micro-elasticsearch:9201,micro-elasticsearch:9202
