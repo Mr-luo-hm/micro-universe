@@ -1,0 +1,7 @@
+micro:
+  component:
+    elasticsearch:
+      username:
+      password:
+      cluster:
+        nodes: micro-elasticsearch:9200,micro-elasticsearch:9201,micro-elasticsearch:9202,

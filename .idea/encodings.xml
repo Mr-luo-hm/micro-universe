@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/micro-admin/micro-admin-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-admin/micro-admin-log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-component/micro-component-elasticsearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-component/micro-component-elasticsearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-component/micro-component-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-component/micro-component-log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-component/micro-component-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-component/micro-component-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-component/micro-component-mysql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-component/micro-component-mysql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-component/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-component/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package-micro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package-micro/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
