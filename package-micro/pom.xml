@@ -24,6 +24,8 @@
         <mybatis-plus.version>3.4.0</mybatis-plus.version>
         <mybatis.version>3.5.5</mybatis.version>
         <github.jsqlparser.version>3.2</github.jsqlparser.version>
+
+        <hutool.version>5.4.1</hutool.version>
     </properties>
 
     <dependencyManagement>
@@ -58,6 +60,12 @@
                 <groupId>com.github.jsqlparser</groupId>
                 <artifactId>jsqlparser</artifactId>
                 <version>${github.jsqlparser.version}</version>
+            </dependency>
+            <!--hutool工具类-->
+            <dependency>
+                <groupId>cn.hutool</groupId>
+                <artifactId>hutool-all</artifactId>
+                <version>${hutool.version}</version>
             </dependency>
 
             <dependency>

@@ -15,5 +15,6 @@
         <module>micro-component-mybatis</module>
         <module>micro-component-log</module>
         <module>micro-component-elasticsearch</module>
+        <module>micro-component-kafka</module>
     </modules>
 </project>
